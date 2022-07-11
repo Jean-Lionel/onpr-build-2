@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a8b739f.css",
+    "main.js": "/static/js/main.68cea05e.js",
+    "static/media/declaration_accident_de_travail_model_A2pdf.pdf": "/static/media/declaration_accident_de_travail_model_A2pdf.d90e97159056284713b1.pdf",
+    "static/media/declaration_accident_de_travail.pdf": "/static/media/declaration_accident_de_travail.28b23259d8d2bec4ea10.pdf",
+    "static/media/onpr_logo.jpg": "/static/media/onpr_logo.174f91ab91bd0248fd07.jpg",
+    "static/media/navheader.jpg": "/static/media/navheader.d80ef88630d11f6e6f8e.jpg",
+    "static/media/langfr-200px-Blason_du_Burundi.svg.png": "/static/media/langfr-200px-Blason_du_Burundi.svg.ce7b6e0cfc28e84d0004.png",
+    "static/media/cotisation.xlsx": "/static/media/cotisation.d99f5716254574fe000d.xlsx",
+    "index.html": "/index.html",
+    "main.5a8b739f.css.map": "/static/css/main.5a8b739f.css.map",
+    "main.68cea05e.js.map": "/static/js/main.68cea05e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a8b739f.css",
+    "static/js/main.68cea05e.js"
+  ]
+}
